@@ -1,4 +1,4 @@
-# How-developers-discuss-human-centric-issues-in-GitHub
+# How developers discuss human centric issues in GitHub
 
 Many software systems fail to meet the needs of the diverse end users in society and are prone to cause problems, such as accessibility and usability issues.
 
